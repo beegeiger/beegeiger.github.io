@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Alex+Brush');
+
+h1, h2, h4, h5, h6 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: #fff;
+  font-weight: 700;
+}
+
+
+h3 {
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: #fff;
+    font-weight: 700;
+}
+
+ella {
+    font-family: "Alex Brush", cursive;
+    font-weight: bold;
+    text-align: center;
+    font-size: 48px;
+    color: rgb(228, 27, 205);
+    background-color: rgba(84, 84, 84, 0);
+    text-shadow: rgb(0, 0, 0) 2px 2px 2px;
+}
