@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Alex+Brush');
 
-h1, h2, h4, h5, h6 {
+h1, h2, h6 {
   margin-top: 0px;
   margin-bottom: 0px;
   color: #fff;
@@ -14,6 +14,22 @@ h3 {
     margin-bottom: 0px;
     color: #fff;
     font-weight: 700;
+}
+
+h4 {
+  font-size:  20px;
+  font-weight: 700;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+h5 {
+  margin-top: 20
+  px;
+  margin-bottom: 0px;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 700;
 }
 
 ella {
