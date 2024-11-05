@@ -479,13 +479,13 @@ Header Style
 
 .header-area .main-nav .nav li:last-child:hover a,
 .header-area .main-nav .nav li:last-child a.active {
-  color: #fff !important;
+  color: #27292a !important;
   background-color: #e75e8d !important;
 }
 
 .background-header .main-nav .nav li:hover a,
 .background-header .main-nav .nav li a.active {
-  color: #fff;
+  color: #27292a;
   opacity: 1;
 }
 
@@ -704,8 +704,8 @@ Header Style
   }
   .header-area .main-nav .nav li {
     width: 100%;
-    background: #fff;
-    border-bottom: 1px solid #eee;
+    background: #27292a;
+    border-bottom: 1px solid #27292a;
     padding-left: 0px !important;
     padding-right: 0px !important;
   }
@@ -714,11 +714,11 @@ Header Style
     line-height: 50px !important;
     padding: 0px !important;
     border: none !important;
-    background: #fff !important;
+    background: #27292a !important;
     color: #1e1e1e !important;
   }
   .header-area .main-nav .nav li a:hover {
-    background: #fff !important;
+    background: #27292a !important;
     color: #e75e8d!important;
   }
   .header-area .main-nav .nav li:last-child a img {
