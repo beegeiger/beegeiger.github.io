@@ -54,8 +54,25 @@ ella {
   background-color: purple;
 }
 
-ul.nav > li > a:hover {
-    background-color: #000000;
-    color: #FFFFFF;
-    border-style: none;
+ul.nav a:hover {
+  color: #fff !important;
+  background-image: none !important;
+  background-color: black !important;
 }
+
+ul.nav li:hover {
+  color: #fff !important;
+  background-image: none !important;
+  background-color: green !important;
+}
+
+ul.nav ul:hover {
+  color: #fff !important;
+  background-image: none !important;
+  background-color: blue !important;
+}
+
+/* li.nav ul:hover {
+  color: #fff !important;
+  background-color: green !important;
+} */
