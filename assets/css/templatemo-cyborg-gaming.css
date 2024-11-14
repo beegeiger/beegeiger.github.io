@@ -88,7 +88,7 @@ html, body {
 
 a {
 	color: #CCC;
-  text-decoration: none !important;
+  text-decoration: none  ;
 }
 a:hover {
 	color: #F99;
@@ -330,13 +330,13 @@ Header Style
 */
 
 .background-header {
-  background-color: #fff !important;
-  height: 70px!important;
-  position: fixed!important;
-  top: 0!important;
+  background-color: #fff  ;
+  height: 70px ;
+  position: fixed ;
+  top: 0 ;
   left: 0;
   right: 0;
-  box-shadow: 0px 0px 10px rgba(0,0,0,0.15)!important;
+  box-shadow: 0px 0px 10px rgba(0,0,0,0.15) ;
   -webkit-transition: all .5s ease 0s;
   -moz-transition: all .5s ease 0s;
   -o-transition: all .5s ease 0s;
@@ -451,15 +451,14 @@ Header Style
   transition: all 0.3s ease 0s;
   border: transparent;
   padding: 13px 10px;
-  border-radius: 18px;
   letter-spacing: .3px;
 }
 
-.header-area .main-nav .nav li:last-child a {
+/* .header-area .main-nav .nav li:last-child a {
   background-color: #27292a;
   padding: 8px 10px 8px 20px;
   border-radius: 23px;
-}
+} */
 
 .header-area .main-nav .nav li:last-child a img {
   max-width: 30px;
@@ -469,18 +468,18 @@ Header Style
 
 .header-area .main-nav .nav li.has-sub ul.sub-menu li:last-child a:hover,
 .background-header .main-nav .nav li.has-sub ul.sub-menu li:last-child a:hover {
-  padding-left: 25px !important;
+  padding-left: 25px  ;
 }
 
 .header-area .main-nav .nav li:hover a,
 .header-area .main-nav .nav li a.active {
-  color: #e75e8d !important;
+  color: #e75e8d  ;
 }
 
 .header-area .main-nav .nav li:last-child:hover a,
 .header-area .main-nav .nav li:last-child a.active {
-  color: #27292a !important;
-  background-color: #e75e8d !important;
+  color: #27292a  ;
+  background-color: #e75e8d  ;
 }
 
 .background-header .main-nav .nav li:hover a,
@@ -648,7 +647,7 @@ Header Style
     top: 0px;
   }
   .background-header .main-nav .border-button {
-    top: 0px !important;
+    top: 0px  ;
   }
   .header-area .main-nav .border-button {
     position: absolute;
@@ -657,7 +656,7 @@ Header Style
   }
   .header-area.header-sticky .nav li a:hover,
   .header-area.header-sticky .nav li a.active {
-    color: #e75e8d!important;
+    color: #e75e8d ;
     opacity: 1;
   }
   .header-area.header-sticky .nav li.search-icon a {
@@ -677,7 +676,7 @@ Header Style
     margin-left: 0px;
   }
   .header-area .menu-trigger {
-    display: block !important;
+    display: block  ;
   }
   .header-area .main-nav {
     overflow: hidden;
@@ -693,11 +692,11 @@ Header Style
     margin-left: 0px;
   }
   .header-area.header-sticky .nav {
-    margin-top: 65px !important;
+    margin-top: 65px  ;
     text-align: center;
   }
   .background-header.header-sticky .nav {
-    margin-top: 70px !important;
+    margin-top: 70px  ;
   }
   .header-area .main-nav .nav li:first-child {
     border-top: 1px solid #eee;
@@ -706,27 +705,27 @@ Header Style
     width: 100%;
     background: #27292a;
     border-bottom: 1px solid #27292a;
-    padding-left: 0px !important;
-    padding-right: 0px !important;
+    padding-left: 0px  ;
+    padding-right: 0px  ;
   }
   .header-area .main-nav .nav li a {
-    height: 50px !important;
-    line-height: 50px !important;
-    padding: 0px !important;
-    border: none !important;
-    background: #27292a !important;
-    color: #1e1e1e !important;
+    height: 50px  ;
+    line-height: 50px  ;
+    padding: 0px  ;
+    border: none  ;
+    background: #27292a  ;
+    color: #1e1e1e  ;
   }
   .header-area .main-nav .nav li a:hover {
-    background: #27292a !important;
-    color: #e75e8d!important;
+    background: #27292a  ;
+    color: #e75e8d ;
   }
   .header-area .main-nav .nav li:last-child a img {
     display: none;
   }
   .header-area .main-nav .nav li:last-child a:hover {
-    color: #ec6090 !important;
-    background-color: transparent !important;
+    color: #ec6090  ;
+    background-color: transparent  ;
   }
   .header-area .main-nav .nav li.has-sub ul.sub-menu {
     position: relative;
@@ -1649,8 +1648,8 @@ body {
   .gaming-library .item ul li,
   .gaming-library .item ul li:first-child,
   .gaming-library .item ul li:last-child {
-    width: 100% !important;
-    text-align: center !important;
+    width: 100%  ;
+    text-align: center  ;
   }
   .gaming-library .item ul li {
     margin-top: 30px;
@@ -1696,7 +1695,7 @@ body {
     font-size: 20px;
   }
   .gaming-library .item ul li {
-    width: 48% !important;
+    width: 48%  ;
   }
   .gaming-library .item ul li:last-child {
     text-align: left;

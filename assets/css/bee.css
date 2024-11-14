@@ -41,3 +41,12 @@ ella {
     background-color: rgba(84, 84, 84, 0);
     text-shadow: rgb(0, 0, 0) 2px 2px 2px;
 }
+
+.dropdown-item1 {
+  background-color: purple;
+}
+
+.nav-link1 {
+  background-color: purple;
+}
+
