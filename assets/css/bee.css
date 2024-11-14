@@ -50,3 +50,12 @@ ella {
   background-color: purple;
 }
 
+.dropdown-menu1 {
+  background-color: purple;
+}
+
+ul.nav > li > a:hover {
+    background-color: #000000;
+    color: #FFFFFF;
+    border-style: none;
+}
