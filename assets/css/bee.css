@@ -43,33 +43,50 @@ ella {
 }
 
 .dropdown-item1 {
-  background-color: purple;
+  background-color: RebeccaPurple;
+  color: #f4f4f4e5 !important;
+  border-radius: 10%;
 }
 
 .nav-link1 {
-  background-color: purple;
+  background-color: RebeccaPurple;
+  color:#f4f4f4e5 !important;
 }
 
 .dropdown-menu1 {
-  background-color: purple;
+  background-color: transparent;
+  color: #f4f4f4e5 !important;
 }
 
 ul.nav a:hover {
   color: #fff !important;
   background-image: none !important;
-  background-color: black !important;
+  background-color: #9966cc !important;
 }
 
 ul.nav li:hover {
   color: #fff !important;
   background-image: none !important;
-  background-color: green !important;
+  background-color: none !important;
 }
 
 ul.nav ul:hover {
   color: #fff !important;
   background-image: none !important;
-  background-color: blue !important;
+  background-color: transparent !important;
+}
+
+.nav-link:focus {
+  color: white !important;
+}
+
+.dropdown:hover>.dropdown-menu {
+  display: block;
+}
+
+.dropdown>.dropdown-toggle:active {
+  /*Without this, clicking will make it sticky*/
+  pointer-events: none;
 }
 
 /* li.nav ul:hover {
