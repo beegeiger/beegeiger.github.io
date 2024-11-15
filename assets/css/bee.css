@@ -42,15 +42,21 @@ ella {
     text-shadow: rgb(0, 0, 0) 2px 2px 2px;
 }
 
+header {
+  position: 0 !important;
+}
+
 .dropdown-item1 {
   background-color: RebeccaPurple;
   color: #f4f4f4e5 !important;
   border-radius: 10%;
+  margin-bottom: 5px;
 }
 
 .nav-link1 {
   background-color: RebeccaPurple;
   color:#f4f4f4e5 !important;
+  padding-bottom: 20px !important;
 }
 
 .dropdown-menu1 {
