@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Alex+Brush');
 
+
+
 h1, h2, h6 {
   margin-top: 0px;
   margin-bottom: 0px;
@@ -46,6 +48,13 @@ header {
   position: 0 !important;
 }
 
+.header-area {
+  top: 0px !important;
+}
+
+.main-nav {
+  /* padding: 0px 0px 0px 0px !important; */
+}
 .dropdown-item1 {
   background-color: RebeccaPurple;
   color: #f4f4f4e5 !important;
@@ -53,10 +62,14 @@ header {
   margin-bottom: 5px;
 }
 
+.nav-tabs{
+  border-color: transparent !important;
+}
 .nav-link1 {
   background-color: RebeccaPurple;
   color:#f4f4f4e5 !important;
-  padding-bottom: 20px !important;
+  padding-bottom: 10px !important;
+  margin-top: 10px !important;
 }
 
 .dropdown-menu1 {
