@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Alex+Brush');
 
 body {
-  height: fit-content;
+  height: fit-content !important; 
 }
 
 h1, h2, h6 {
