@@ -52,13 +52,17 @@ ella {
     text-shadow: rgb(0, 0, 0) 2px 2px 2px;
 }
 
-header {
+.header-area {
+    position: 0 !important;
+}
+
+/* header {
   position: 0 !important;
 }
 
 .header-area {
   top: 0px !important;
-}
+} */
 
 .main-nav {
   /* padding: 0px 0px 0px 0px !important; */
