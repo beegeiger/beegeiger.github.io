@@ -52,6 +52,11 @@ ella {
     text-shadow: rgb(0, 0, 0) 2px 2px 2px;
 }
 
+.navbar-expand-lg {
+  padding-left: 110px !important;
+  padding-right: 110px !important;
+}
+
 .header-area {
     position: 0 !important;
 }
