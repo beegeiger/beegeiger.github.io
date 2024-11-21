@@ -195,3 +195,44 @@ ul.nav ul:hover {
 
 }
 
+.dropdown-item5 {
+  background-color: rgb(241, 167, 56);
+  color: black !important;
+  border-radius: 4%;
+  margin-bottom: 5px;
+}
+
+.nav-link5 {
+  background-color: rgb(241, 167, 56);
+  color:black !important;
+  padding-bottom: 10px !important;
+
+}
+
+.dropdown-item6 {
+  background-color: red;
+  color: #f4f4f4e5 !important;
+  border-radius: 4%;
+  margin-bottom: 5px;
+}
+
+.nav-link6 {
+  background-color: red;
+  color: #f4f4f4e5 !important;
+  padding-bottom: 10px !important;
+
+}
+
+.dropdown-item7 {
+  background-color:rgb(228, 27, 205);
+  color: black !important;
+  border-radius: 4%;
+  margin-bottom: 5px;
+}
+
+.nav-link7 {
+  background-color: rgb(228, 27, 205);
+  color: black !important;
+  padding-bottom: 10px !important;
+
+}
