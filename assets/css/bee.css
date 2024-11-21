@@ -2,6 +2,7 @@
 
 body {
   height: fit-content !important; 
+  zoom: 100%;
 }
 
 h1, h2, h6 {
@@ -94,8 +95,9 @@ ella {
 
 
 .dropdown-menu1 {
-  background-color: transparent;
+  background-color: transparent !important; 
   color: #f4f4f4e5 !important;
+  border: 0 !important;
 }
 
 
@@ -141,7 +143,7 @@ ul.nav ul:hover {
 
 .dropdown-item1 {
   background-color: RebeccaPurple;
-  color: #f4f4f4e5 !important;
+  color: #f4f4f4e5 !important;ming Christma
   border-radius: 4%;
   margin-bottom: 5px;
 }
