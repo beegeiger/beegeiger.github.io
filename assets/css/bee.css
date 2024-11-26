@@ -53,11 +53,21 @@ ella {
     text-shadow: rgb(0, 0, 0) 2px 2px 2px;
 }
 
+.bull {
+  color: #666 !important;
+  list-style-type: circle !important;
+  margin-left: 20px;
+}
+
 .navbar-expand-lg {
   text-align: right !important;
   padding-left: 7% !important;
   padding-right: 7% !important;
   padding-bottom: 0px !important;
+}
+
+.norm {
+  font-weight: 500 !important;
 }
 
 .page-content {

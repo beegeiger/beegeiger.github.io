@@ -131,7 +131,7 @@ body .page-content {
 
 p {
   font-size: 15px;
-  color: #666;
+  color: #666 !important;
   line-height: 30px;
   margin-bottom: 0px;
 }
