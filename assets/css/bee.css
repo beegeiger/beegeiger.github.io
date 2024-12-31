@@ -43,6 +43,10 @@ h5 {
   font-weight: 700;
 }
 
+h6 {
+  font-size: 25px;
+}
+
 ella {
     font-family: "Alex Brush", cursive;
     font-weight: bold;
